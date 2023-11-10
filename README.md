@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrea, an <a href="https://linkedin.com/in/andrea-de-casenave">IT Professional</a>☺</h1>
+<h1>Hi, I'm  <a href="https://linkedin.com/in/andrea-de-casenave">Andrea</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
